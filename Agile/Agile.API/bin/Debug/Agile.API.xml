@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Agile.API</name>
+    </assembly>
+    <members>
+        <member name="M:Agile.API.Controllers.UsersController.UserLogin(System.Object)">
+            <summary>
+            用户登录
+            </summary>
+            <param name="User">用户账号 密码</param>
+            <returns></returns>
+        </member>
+        <member name="M:Agile.API.Controllers.UsersController.GetAllUsers">
+            <summary>
+            用户列表
+            </summary>
+            <returns></returns>    
+        </member>
+    </members>
+</doc>

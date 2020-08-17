@@ -1,0 +1,16 @@
+F:\SqlSugar\Agile\Agile.Repository\obj\Debug\netcoreapp3.1\Agile.Repository.csprojAssemblyReference.cache
+F:\SqlSugar\Agile\Agile.Repository\obj\Debug\netcoreapp3.1\Agile.Repository.AssemblyInfoInputs.cache
+F:\SqlSugar\Agile\Agile.Repository\obj\Debug\netcoreapp3.1\Agile.Repository.AssemblyInfo.cs
+F:\SqlSugar\Agile\Agile.Repository\obj\Debug\netcoreapp3.1\Agile.Repository.csproj.CoreCompileInputs.cache
+F:\SqlSugar\Agile\Agile.Repository\bin\Debug\netcoreapp3.1\Agile.Repository.deps.json
+F:\SqlSugar\Agile\Agile.Repository\bin\Debug\netcoreapp3.1\Agile.Repository.dll
+F:\SqlSugar\Agile\Agile.Repository\bin\Debug\netcoreapp3.1\Agile.Repository.pdb
+F:\SqlSugar\Agile\Agile.Repository\bin\Debug\netcoreapp3.1\Agile.BaseLib.dll
+F:\SqlSugar\Agile\Agile.Repository\bin\Debug\netcoreapp3.1\Agile.Entity.dll
+F:\SqlSugar\Agile\Agile.Repository\bin\Debug\netcoreapp3.1\NLog.dll
+F:\SqlSugar\Agile\Agile.Repository\bin\Debug\netcoreapp3.1\Agile.BaseLib.pdb
+F:\SqlSugar\Agile\Agile.Repository\bin\Debug\netcoreapp3.1\Agile.Entity.pdb
+F:\SqlSugar\Agile\Agile.Repository\bin\Debug\netcoreapp3.1\NLog.xml
+F:\SqlSugar\Agile\Agile.Repository\obj\Debug\netcoreapp3.1\Agile.Repository.csproj.CopyComplete
+F:\SqlSugar\Agile\Agile.Repository\obj\Debug\netcoreapp3.1\Agile.Repository.dll
+F:\SqlSugar\Agile\Agile.Repository\obj\Debug\netcoreapp3.1\Agile.Repository.pdb

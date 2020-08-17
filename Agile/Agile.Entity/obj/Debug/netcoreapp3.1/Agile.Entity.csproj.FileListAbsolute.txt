@@ -1,0 +1,9 @@
+F:\SqlSugar\Agile\Agile.Entity\bin\Debug\netcoreapp3.1\Agile.Entity.deps.json
+F:\SqlSugar\Agile\Agile.Entity\bin\Debug\netcoreapp3.1\Agile.Entity.dll
+F:\SqlSugar\Agile\Agile.Entity\obj\Debug\netcoreapp3.1\Agile.Entity.AssemblyInfoInputs.cache
+F:\SqlSugar\Agile\Agile.Entity\obj\Debug\netcoreapp3.1\Agile.Entity.AssemblyInfo.cs
+F:\SqlSugar\Agile\Agile.Entity\bin\Debug\netcoreapp3.1\Agile.Entity.pdb
+F:\SqlSugar\Agile\Agile.Entity\obj\Debug\netcoreapp3.1\Agile.Entity.csproj.CoreCompileInputs.cache
+F:\SqlSugar\Agile\Agile.Entity\obj\Debug\netcoreapp3.1\Agile.Entity.dll
+F:\SqlSugar\Agile\Agile.Entity\obj\Debug\netcoreapp3.1\Agile.Entity.pdb
+F:\SqlSugar\Agile\Agile.Entity\obj\Debug\netcoreapp3.1\Agile.Entity.csprojAssemblyReference.cache

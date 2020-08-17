@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\.editorconfig" Link=".editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Agile.BaseLib\Agile.BaseLib.csproj" />
+    <ProjectReference Include="..\Agile.Entity\Agile.Entity.csproj" />
+  </ItemGroup>
+
+</Project>
