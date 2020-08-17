@@ -22,6 +22,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using Agile.BaseLib.Models;
+using Agile.BaseLib.Helpers;
 
 namespace Agile.API
 {
@@ -74,8 +75,7 @@ namespace Agile.API
 
             //依赖注入
             services.AddScopedAssembly("Agile.Repository");
-
-
+          
             //生成Token
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
                  .AddJwtBearer(options =>
@@ -91,6 +91,10 @@ namespace Agile.API
                          IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["SecurityKey"]))//拿到SecurityKey
                      };
                  });
+
+            //Redis服务依赖
+            RedisHelper.redisClient.InitConnect(Configuration);
+
             return AspectCoreContainer.BuildServiceProvider(services);
         }
 

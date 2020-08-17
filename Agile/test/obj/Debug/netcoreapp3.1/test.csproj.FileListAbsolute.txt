@@ -60,7 +60,6 @@ F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
 F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
 F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\System.Text.Json.dll
-F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
 F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
 F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
 F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
@@ -77,8 +76,6 @@ F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3
 F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\runtimes\win8-arm\native\e_sqlite3.dll
 F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
 F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
-F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
-F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
 F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\Agile.BaseLib.dll
 F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\NLog.dll
@@ -115,3 +112,14 @@ F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dl
 F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\Agile.Entity.dll
 F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\Agile.Entity.pdb
+F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\SqlSugar\Agile\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll

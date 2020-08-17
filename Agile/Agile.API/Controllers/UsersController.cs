@@ -125,5 +125,22 @@ namespace Agile.API.Controllers
                 return ExcutedResult.FailedResult(msg, status);
             }
         }
+
+        [AllowAnonymous]
+        [HttpGet]
+        public string GetRedis()
+        {
+
+            var redisResult = RedisHelper.redisClient.GetStringKey("frist");
+
+            return redisResult;
+        }
+        [AllowAnonymous]
+        [HttpGet]
+        public string SetRedis()
+        {          
+            var s = RedisHelper.redisClient.SetStringKey("Token", "1wds123a", new TimeSpan(0,0,0,10));
+            return "OK";
+        }
     }
 }

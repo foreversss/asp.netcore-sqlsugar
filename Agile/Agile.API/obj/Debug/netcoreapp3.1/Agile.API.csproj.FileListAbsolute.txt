@@ -85,6 +85,14 @@ F:\SqlSugar\Agile\Agile.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.
 F:\SqlSugar\Agile\Agile.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 F:\SqlSugar\Agile\Agile.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 F:\SqlSugar\Agile\Agile.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\SqlSugar\Agile\Agile.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\SqlSugar\Agile\Agile.API\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+F:\SqlSugar\Agile\Agile.API\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+F:\SqlSugar\Agile\Agile.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+F:\SqlSugar\Agile\Agile.API\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+F:\SqlSugar\Agile\Agile.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+F:\SqlSugar\Agile\Agile.API\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+F:\SqlSugar\Agile\Agile.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
 F:\SqlSugar\Agile\Agile.API\obj\Debug\netcoreapp3.1\Agile.API.csproj.CoreCompileInputs.cache
 F:\SqlSugar\Agile\Agile.API\obj\Debug\netcoreapp3.1\Agile.API.MvcApplicationPartsAssemblyInfo.cs
 F:\SqlSugar\Agile\Agile.API\obj\Debug\netcoreapp3.1\Agile.API.MvcApplicationPartsAssemblyInfo.cache
